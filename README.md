@@ -15,4 +15,5 @@ Juliani, C., Ellefmo, S.L., 2019. Prospectivity Mapping of Mineral Deposits in N
 *Make sure you use Python 3.x and that related libraries (numpy and tensorflow) have correct versions for compatibility.*
 
 | ![alt text](https://www.mdpi.com/minerals/minerals-09-00131/article_deploy/html/images/minerals-09-00131-g008-550.jpg) |
+|:--:|
 | *(a) Favorability measure of Cu-rich mineralization in the Finnmark region (500-m cell resolution) - values range is −0.73–0.73. Shades of yellow, orange and red (equal or above the threshold) represent areas favorable for Cu mineralization. Locations of “deposit” and “non-deposit” sites, which were used as training and validation data, are shown by white and black crosses, respectively. Zones A (within the Repparfjord Tectonic Window), B and C (both within the Kautokeino Greenstone Belt) are examples of prospective zones unveiled by the model, which do not contain any local training or validation data. (b) Predictions in zone B compared with geology.* |
