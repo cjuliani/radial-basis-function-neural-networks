@@ -1,5 +1,4 @@
 import os
-os.chdir("C:/Users/cyrilj/Desktop/github-RBFNN")
 import utils, model
 
 # Read csv data
