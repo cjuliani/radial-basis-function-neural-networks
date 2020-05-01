@@ -274,7 +274,6 @@ class model(object):
 		print('\n')
 		print("Training set: ", len(train_f))
 		print("Validation set: ", len(val_f))
-		print("Testing set: ", len(test_f))
 		print('\n')
 		print("Batches: ", self.nbatch)
 		print("Steps (training): ", steps)
