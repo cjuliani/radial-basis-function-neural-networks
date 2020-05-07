@@ -1,4 +1,5 @@
-# Radial basis function neural network for mineral exploration risk calculation
+# [Radial basis function neural network for mineral exploration risk calculation](https://www.mdpi.com/minerals/minerals-09-00131/article_deploy/html/images/minerals-09-00131-g008-550.jpg) (Minerals, MDPI-2019)
+![Tensorflow](https://img.shields.io/badge/Implemented%20in-Tensorflow-green.svg) <br>
 
 The demo was initially developed for prospectivity mapping of copper-rich mineral deposits within Northern Norway. Geoscientific spatial data (lithology, magnetics, geochemistry and gravity) are combined and matched with existing mineral deposits located in the area. The goal was to find geoscientific "fingerprints" from this combining matching these deposits, and to seek similar fingerprints elsewhere in the survey area. 
 
