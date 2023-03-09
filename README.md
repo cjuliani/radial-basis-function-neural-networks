@@ -1,4 +1,4 @@
-# [Radial basis function neural network for mineral exploration risk calculation](https://www.mdpi.com/minerals/minerals-09-00131/article_deploy/html/images/minerals-09-00131-g008-550.jpg) (Minerals, MDPI-2019)
+# [Radial basis function neural network for mineral exploration risk calculation](https://www.mdpi.com/2075-163X/9/2/131) (Minerals, MDPI-2019)
 ![Tensorflow](https://img.shields.io/badge/Implemented%20in-Tensorflow-green.svg) <br>
 
 The demo was initially developed for prospectivity mapping of copper-rich mineral deposits within Northern Norway. Geoscientific spatial data (lithology, magnetics, geochemistry and gravity) are combined and matched with existing mineral deposits located in the area. The goal was to find geoscientific "fingerprints" from this combining matching these deposits, and to seek similar fingerprints elsewhere in the survey area. 
@@ -18,3 +18,7 @@ Juliani, C., Ellefmo, S.L., 2019. Prospectivity Mapping of Mineral Deposits in N
 | ![alt text](https://www.mdpi.com/minerals/minerals-09-00131/article_deploy/html/images/minerals-09-00131-g008-550.jpg) |
 |:--:|
 | *(a) Favorability measure of Cu-rich mineralization in the Finnmark region (500-m cell resolution) - values range is −0.73–0.73. Shades of yellow, orange and red (equal or above the threshold) represent areas favorable for Cu mineralization. Locations of “deposit” and “non-deposit” sites, which were used as training and validation data, are shown by white and black crosses, respectively. Zones A (within the Repparfjord Tectonic Window), B and C (both within the Kautokeino Greenstone Belt) are examples of prospective zones unveiled by the model, which do not contain any local training or validation data. (b) Predictions in zone B compared with geology.* |
+
+| ![alt text](https://raw.githubusercontent.com/cjuliani/tf-rbfnn/master/architecture.png) |
+|:--:|
+| *Architecture of a standard radial basis function neural network.* |
